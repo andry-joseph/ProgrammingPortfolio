@@ -1,4 +1,5 @@
 # Andry Joseph's Programming Portfolio 2021
+Andry Joseph [email](mailto:andrjose9679@granitesd.org)
 
 ## Processing Projects
 
